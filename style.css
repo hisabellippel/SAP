@@ -32,20 +32,20 @@ body{ margin: 0px;
 
     a.{
         background-color: rgb(158, 162, 165);
-        border: solid;
-        border-color: gray;
+        margin: 5px;
+        padding: 200px;
     }
 
     b.{
         background-color: rgb(158, 162, 165);
-        border: solid;
-        border-color: gray;
+        margin: 5px;
+        padding: 200px;
     }
 
     c.{
         background-color: rgb(158, 162, 165);
-        border: solid;
-        border-color: gray;
+        margin: 5px;
+        padding: 200px;
     }
 
     .flex{

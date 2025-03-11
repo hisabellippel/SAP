@@ -22,11 +22,12 @@ body{ margin: 0px;
     }
     .cinzas{
         background-color: rgb(178, 178, 179);
-        padding: 30px;
-        padding-bottom: 40px;
-        margin: 10px;
+        padding: 5px;
+        padding-bottom: 5px;
+        margin: 5px;
        border-color: gray;
        border-style: solid;
+       color: black;
     }
 
     .flex{

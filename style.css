@@ -30,22 +30,26 @@ body{ margin: 0px;
        color: black;
     }
 
-    a.{
+    .a{
         background-color: rgb(158, 162, 165);
         margin: 5px;
-        padding: 200px;
+        padding: 190px;
+        padding-right: 250px;
     }
 
-    b.{
+    .b{
         background-color: rgb(158, 162, 165);
         margin: 5px;
-        padding: 200px;
+        padding: 190px;
+        padding-right: 1250px;
     }
 
-    c.{
+    .c{
         background-color: rgb(158, 162, 165);
         margin: 5px;
-        padding: 200px;
+        padding: 190px;
+        padding-right: 1250px;
+        
     }
 
     .flex{

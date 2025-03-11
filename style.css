@@ -30,6 +30,24 @@ body{ margin: 0px;
        color: black;
     }
 
+    a.{
+        background-color: rgb(158, 162, 165);
+        border: solid;
+        border-color: gray;
+    }
+
+    b.{
+        background-color: rgb(158, 162, 165);
+        border: solid;
+        border-color: gray;
+    }
+
+    c.{
+        background-color: rgb(158, 162, 165);
+        border: solid;
+        border-color: gray;
+    }
+
     .flex{
         display: flex;
     }

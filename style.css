@@ -20,3 +20,6 @@ body{ margin: 0px;
         padding: 15px;
     padding-bottom: 15px;
     }
+    .flex{
+        display: flex;
+    }

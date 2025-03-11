@@ -20,6 +20,13 @@ body{ margin: 0px;
         padding: 15px;
     padding-bottom: 15px;
     }
+    .cinzas{
+        background-color: rgb(178, 178, 179);
+        padding: 0px;
+        padding-bottom: 40px;
+        margin: 0px;
+    }
+
     .flex{
         display: flex;
     }
